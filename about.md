@@ -14,6 +14,8 @@ I am currently a Ph.D. candidate in the Robert Frederick Smith School of Chemica
 
 Seeking employment starting in early 2017.
 
+I am very good at drawing octopuses.
+
 ### Contact me
 
 [william@bedell.io](mailto:william@bedell.io)
