@@ -12,7 +12,7 @@ I have a few degrees which say "chemical engineering" on them, but that's just o
 
 I am currently a Ph.D. candidate in the Robert Frederick Smith School of Chemical and Biomolecular Engineering at Cornell University.
 
-Seeking employment starting in early 2017.
+I am seeking employment starting in early 2017.
 
 I am very good at drawing octopuses.
 
