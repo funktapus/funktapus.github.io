@@ -17,3 +17,5 @@ Seeking employment starting in early 2017.
 ### Contact me
 
 [william@bedell.io](mailto:william@bedell.io)
+
+[LinkedIn](https://www.linkedin.com/in/bill-bedell-27813749)
