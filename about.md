@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+"Have many passions; work on the one that pays the most" - M. K.
+
+I have a few degrees that say "chemical engineering" on them, but that's just one of many things I love doing. Want to brainstorm business ideas?  I'm your man. Argue about transportation and land use policy? Let's throw down! Pontificate on the aesthetics of iwagumi? Sorry, too soon... I'm still mourning for Takashi Amano.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a Ph.D. candidate in the Robert Frederick Smith School of Chemical and Biomolecular Engineering at Cornell University.
+
+Seeking employment starting in early 2017.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[william@bedell.io](mailto:william@bedell.io)
