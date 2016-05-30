@@ -29,6 +29,7 @@ Did I give you a business card? Get my resume!
 <form action="https://formspree.io/william@bedell.io"
       method="POST">
     <input type="text" name="_subject" placeholder="Resume code">
-    <input type="text" name="name" placeholder="Your email address">
+    <input type="text" placeholder="Your email address">
+    <input type="text" name="_format" value="plain" style="display:none" />
     <input type="submit" value="Send">
 </form> 
