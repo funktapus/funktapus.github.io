@@ -24,9 +24,11 @@ I am very good at drawing octopuses.
 
 [LinkedIn](https://www.linkedin.com/in/bill-bedell-27813749)
 
+Send me a note
 <form action="https://formspree.io/william@bedell.io"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+    <input type="text" name="_subject" placeholder="Please send me resume">
+    <input type="text" name="name" placeholder="Name, Affiliation, etc.">
+    <input type="email" name="_replyto" placeholder="Your email">
     <input type="submit" value="Send">
 </form> 
