@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+redirect_from:
+  - /index.php/resume
+
 ![Bill](/images/portrait_20160530.jpg)
 
 "Have many passions; work on the one that pays the most" - M. K.
