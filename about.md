@@ -33,3 +33,5 @@ Did I give you a business card? Get my resume!
     <input type="text" name="_format" value="plain" style="display:none" />
     <input type="submit" value="Send">
 </form> 
+
+*may take up to 15 minutes to process*
