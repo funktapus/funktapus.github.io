@@ -24,12 +24,12 @@ I am very good at drawing octopuses.
 
 [LinkedIn](https://www.linkedin.com/in/bill-bedell-27813749)
 
-Did I give you a business card? Get my resume!
+Did I give you a business card? Get my resume! TEST2
 
 <form action="https://formspree.io/william@bedell.io"
       method="POST">
-    <input type="text" name="_subject" placeholder="Resume code">
-    <input type="text" placeholder="Your email address">
+    <input type="text" name="_subject" placeholder="Resume Code">
+    <input type="email" name="_replyto" placeholder="Your email address">
     <input type="text" name="_format" value="plain" style="display:none" />
     <input type="submit" value="Send">
 </form> 
