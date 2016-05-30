@@ -39,4 +39,4 @@ Did I give you a business card? Get my resume!
     <input type="submit" value="Send">
 </form> 
 
-*may take up to 15 minutes to process*
+*please allow up to 15 minutes to process*
