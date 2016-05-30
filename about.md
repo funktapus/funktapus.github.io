@@ -23,3 +23,10 @@ I am very good at drawing octopuses.
 [william@bedell.io](mailto:william@bedell.io)
 
 [LinkedIn](https://www.linkedin.com/in/bill-bedell-27813749)
+
+<form action="https://formspree.io/william@bedell.io"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form> 
