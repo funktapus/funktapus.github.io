@@ -24,7 +24,7 @@ I am very good at drawing octopuses.
 
 [LinkedIn](https://www.linkedin.com/in/bill-bedell-27813749)
 
-Send me a note
+Did I give you a business card? Get my resume!
 
 <form action="https://formspree.io/william@bedell.io"
       method="POST">
