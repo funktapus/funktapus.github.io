@@ -2,10 +2,9 @@
 layout: page
 title: About
 permalink: /about/
----
-
 redirect_from:
   - /index.php/resume
+---
 
 ![Bill](/images/portrait_20160530.jpg)
 
