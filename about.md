@@ -6,8 +6,7 @@ redirect_from:
   - /index.php/resume
   - /index.php/resume/
 ---
-
-![Bill](/images/bill_pic.jpg)
+<img src="/images/bill_pic.jpg" alt="Bill" style="width: 200px;"/>
 
 "Have many passions; work on the one that pays the most" - M. K.
 
