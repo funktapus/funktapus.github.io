@@ -7,7 +7,7 @@ redirect_from:
   - /index.php/resume/
 ---
 
-![Bill](/images/portrait_20160530.jpg)
+![Bill](/images/bill_pic.jpg)
 
 "Have many passions; work on the one that pays the most" - M. K.
 
