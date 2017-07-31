@@ -10,8 +10,6 @@ redirect_from:
 
 "Have many passions; work on the one that pays the most" - M. K.
 
-I have a few degrees which say "chemical engineering" on them, but that's just one of many things I love doing. Want to brainstorm business ideas?  I'm your man. Argue about transportation and land use policy? Let's throw down! Pontificate on the aesthetics of iwagumi? Sorry, too soon... I'm still mourning Takashi Amano.
-
 ### More Information
 
 I am currently a Ph.D. candidate in the Robert Frederick Smith School of Chemical and Biomolecular Engineering at Cornell University.
