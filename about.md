@@ -6,7 +6,7 @@ redirect_from:
   - /index.php/resume
   - /index.php/resume/
 ---
-<img src="/images/bill_pic.jpg" alt="Bill" style="width: 400px;"/>
+<img src="/images/selfie.jpg" alt="Bill" style="width: 400px;"/>
 
 "Have many passions; work on the one that pays the most" - M. K.
 
@@ -14,24 +14,10 @@ redirect_from:
 
 I am currently a Ph.D. candidate in the Robert Frederick Smith School of Chemical and Biomolecular Engineering at Cornell University.
 
-I am seeking employment starting in early 2017.
+I am seeking employment in the Boston area.
 
 ### Contact me
 
 [william@bedell.io](mailto:william@bedell.io)
 
 [LinkedIn](https://www.linkedin.com/in/bill-bedell-27813749)
-
-### Resume
-
-Did I give you a business card? Get my resume!
-
-<form action="https://formspree.io/william@bedell.io"
-      method="POST">
-    <input type="text" name="code" placeholder="Resume Code">
-    <input type="text" name="_subject" placeholder="Your email address">
-    <input type="text" name="_format" value="plain" style="display:none" />
-    <input type="submit" value="Send">
-</form> 
-
-*please allow up to 15 minutes to process*
